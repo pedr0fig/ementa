@@ -41,6 +41,13 @@ const ementa = {
         "preco": "2€",
         "imagem": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Chocolate_coffee_mousse.jpg"
       }
+    ],
+     "Cafés": [
+      {
+        "nome": "Café",
+        "preco": "1€",
+        "imagem": "https://images.trustinnews.pt/uploads/sites/5/2019/11/pros-e-contras-do-cafe-2.jpeg"
+      }
     ]
   }
 };
